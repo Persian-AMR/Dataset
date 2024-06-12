@@ -1,6 +1,6 @@
 # Persian AMR Dataset
 
-Welcome to the Persian Abstract Meaning Representation (AMR) Dataset repository. This repository contains the dataset developed for creating AMRs for Persian based on the Persian AMR annotation guidelines that can be found [here](https://github.com/Persian-AMR/Annotation-Guidelines). This dataset is based on the translation of "The Little Prince" and aims to address the unique syntactic challenges of Persian.
+Welcome to the Persian Abstract Meaning Representation (AMR) Dataset repository. This repository contains the dataset developed for creating AMRs for Persian based on the Persian AMR annotation guidelines that can be found [here](https://github.com/Persian-AMR/Annotation-Guidelines). This dataset is based on the translation of "The Little Prince" and aims to address the unique syntactic challenges of Persian. The dataset contains 1562 sentences with their AMR annotations.
 
 # Citation
 If you use this dataset in your research, please cite our papers as follows:
