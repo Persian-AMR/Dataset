@@ -39,4 +39,4 @@ For a more detailed version archived on arxiv:
 Persian Abstract Meaning Representation © 2021 is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. You may not use the dataset except in compliance with the License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Contact
-For questions or further information, please contact the authors.
+For questions or further information, contact Tara Azin at [taraazin@cmail.carleton.ca](mailto:taraazin@cmail.carleton.ca)
