@@ -13,11 +13,11 @@ If you use this dataset in your research, please cite our papers as follows:
 @inproceedings{takhshid-etal-2024-persian,
     title = "{P}ersian {A}bstract {M}eaning {R}epresentation: Annotation Guidelines and Gold Standard Dataset",
     author = "Takhshid, Reza  and
-      Azin, Tara  and
-      Shojaei, Razieh  and
-      Bahrani, Mohammad",
+    Azin, Tara  and
+    Shojaei, Razieh  and
+    Bahrani, Mohammad",
     editor = "Xue, Nianwen  and
-      Martin, James",
+    Martin, James",
     booktitle = "Proceedings of the 2024 UMR Parsing Workshop",
     month = jun,
     year = "2024",
