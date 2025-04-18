@@ -5,7 +5,7 @@ Welcome to the Persian Abstract Meaning Representation (AMR) Dataset repository.
 # Citation
 If you use this dataset in your research, please cite our papers as follows:
 
-For the Universal Meaning Representation (UMR) workshop proceedings paper:
+
 
 
 ```bibtex
