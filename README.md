@@ -10,30 +10,25 @@ For the Universal Meaning Representation (UMR) workshop proceedings paper:
 
 ```bibtex
 
-@inproceedings{takhshid-etal-2024-persian-amr,
-    title = "Persian Abstract Meaning Representation: Annotation Guidelines and Gold Standard Dataset",
-    author = "Reza Takhshid and Tara Azin and Razieh Shojaei and Mohammad Bahrani",
-    booktitle = "Proceedings of the Universal Meaning Representation Workshop",
-    month = June,
+@inproceedings{takhshid-etal-2024-persian,
+    title = "{P}ersian {A}bstract {M}eaning {R}epresentation: Annotation Guidelines and Gold Standard Dataset",
+    author = "Takhshid, Reza  and
+      Azin, Tara  and
+      Shojaei, Razieh  and
+      Bahrani, Mohammad",
+    editor = "Xue, Nianwen  and
+      Martin, James",
+    booktitle = "Proceedings of the 2024 UMR Parsing Workshop",
+    month = jun,
     year = "2024",
     address = "Boulder, Colorado",
-    publisher = "University of Colorado Boulder",
-    url = "TBA",
-    pages = "TBA",
-
-```
-For a more detailed version archived on arxiv:
-
-```bibtex
-
-@article{takhshid-etal-2022-persianAMRarxiv,
-  title={Persian Abstract Meaning Representation},
-  author={Reza Takhshid and Tara Azin and Razieh Shojaei and Mohammad Bahrani},
-  journal={arxiv},
-  year={2022},
-  url={https://arxiv.org/abs/2205.07712},
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.umrpw-1.2/",
+    pages = "8--15"
 }
+
 ```
+
 
 # License 
 Persian Abstract Meaning Representation © 2021 is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. You may not use the dataset except in compliance with the License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
